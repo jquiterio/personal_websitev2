@@ -48,9 +48,16 @@ const Copy = styled.div`
   font-size: ${fontSizes.xsmall};
   line-height: 1;
 `;
+const P = styled.p`
+  margin: 10px 0;
+  font-family: ${fonts.SFMono};
+  font-size: ${fontSizes.xsmall};
+  line-height: 1;
+`;
 const GithubLink = styled.a`
   color: ${colors.slate};
 `;
+
 // const GithubInfo = styled.div`
 //   margin-top: 10px;
 
@@ -98,12 +105,33 @@ const Footer = () => (
       </SocialItemList>
     </SocialContainer>
     <Copy>
-      <GithubLink
-        href="https://github.com/bchiang7/v4"
-        target="_blank"
-        rel="nofollow noopener noreferrer">
-        <div>Originally designed by Brittany Chiang</div>
-      </GithubLink>
+      <P>
+        made with&nbsp;
+        <GithubLink
+          href="https://www.gatsbyjs.org"
+          target="_blank"
+          rel="nofollow noopener noreferrer">
+          <div>gatsbyjs</div>
+        </GithubLink>
+        +
+        <GithubLink href="https://graphql.org" target="_blank" rel="nofollow noopener noreferrer">
+          <div>graphql</div>
+        </GithubLink>
+        &nbsp;| designed by&nbsp;
+        <GithubLink
+          href="https://github.com/bchiang7"
+          target="_blank"
+          rel="nofollow noopener noreferrer">
+          <div>Brittany Chiang</div>
+        </GithubLink>
+        &nbsp;| tunned by&nbsp;
+        <GithubLink
+          href="https://github.com/jquiterio"
+          target="_blank"
+          rel="nofollow noopener noreferrer">
+          <div>me</div>
+        </GithubLink>
+      </P>
     </Copy>
   </FooterContainer>
 );
