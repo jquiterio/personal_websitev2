@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Jorge'
-subtitle: 'I design, develop, document, deploy and manage systems and software lifecycle.'
+subtitle: 'I design, develop, document and deploy systems and software.'
 contactText: 'Get In Touch'
 ---
 
