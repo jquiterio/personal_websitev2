@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Jorge'
+subtitle: 'I design, develop, document, deploy and manage systems and software lifecycle.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a DevOps engineer with more then 10 years experience in software development and system engineering.

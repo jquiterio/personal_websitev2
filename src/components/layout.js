@@ -20,7 +20,7 @@ const SkipToContent = styled.a`
   &:focus,
   &:active {
     outline: 0;
-    color: ${colors.green};
+    color: ${colors.greeen};
     background-color: ${colors.lightNavy};
     border-radius: ${theme.borderRadius};
     padding: 18px 23px;
@@ -47,7 +47,7 @@ const Layout = ({ children }) => {
   });
 
   useEffect(() => {
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/jquiterio/personal_websitev2')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
