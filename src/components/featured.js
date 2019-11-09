@@ -49,11 +49,11 @@ const ProjectDescription = styled.div`
   z-index: 2;
   padding: 25px;
   background-color: ${colors.lightNavy};
-  color: ${colors.lightSlate};
+  color: ${colors.black};
   font-size: ${fontSizes.large};
   border-radius: ${theme.borderRadius};
   ${media.thone`
-    background-color: transparent;
+    background-color: ${colors.grayLight};
     padding: 20px 0;
     box-shadow: none;
     &:hover {
