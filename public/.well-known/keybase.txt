@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jquiterio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jquiterio.eu
+  * I am jquiterio (https://keybase.io/jquiterio) on keybase.
+  * I have a public key ASAaN31sq69eRBs8iKnOqU0KhyV3v5s9ZFc4ts5exXnyVAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201a377d6cabaf5e441b3c88a9cea94d0a872577bf9b3d645738b6ce5ec579f2540a",
+      "host": "keybase.io",
+      "kid": "01201a377d6cabaf5e441b3c88a9cea94d0a872577bf9b3d645738b6ce5ec579f2540a",
+      "uid": "4544fe99541486d3e355c7d830f76519",
+      "username": "jquiterio"
+    },
+    "merkle_root": {
+      "ctime": 1577863909,
+      "hash": "3c12890412819d19ef8b9c6f4309eced2f99a7a3be6e86e5f3dcf19281cf06d0acb7122d9da1d05997e4b331e619fb0f6b9ecbfdb9b5dfe74587b810532a2c82",
+      "hash_meta": "1ecf37deb15ede5a275b35e4f7da0155124d1d9c90c83c8435a2b7e7ad88bfeb",
+      "seqno": 14039147
+    },
+    "service": {
+      "entropy": "a154pT43N6ySL/w4bnpV5Jfa",
+      "hostname": "www.jquiterio.eu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1577863936,
+  "expire_in": 504576000,
+  "prev": "4068feffbc74f22213362384d1c7225589b315b524bf27bebd70843a915ba9e8",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGjd9bKuvXkQbPIipzqlNCocld7+bPWRXOLbOXsV58lQKp3BheWxvYWTESpcCFsQgQGj+/7x08iITNiOE0cciVYmzFbUkvye+vXCEOpFbqejEIFaKABZIt1m7UigUA4PXHu2/4y7Sqdq2LxcWdmBPwKOJAgHCo3NpZ8RA11qOrc54XP0iH2kcfBIoNLwthVJzKJzoE0xtuqZYrR9eoQ32b4aGp2O6zyr/8w/jeZlvuhrbAml5818slE4/AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIKfSYKM6/CyIsEPW7SMIf6BNmen/Tx2c/GMPbRau3MEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jquiterio
+
+==================================================================
